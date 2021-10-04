@@ -33,11 +33,11 @@ project is to implement the boardgame [Sagrada][sagrada].
 
 ### GUI interface
 
-<img src="./screenshots/GUI.png" width="400" height="auto">
+<img src="./screenshots/gui.png" width="400" height="auto">
 
 ### CLI interface
 
-<img src="./screenshots/CLI.png" width="400" height="auto">
+<img src="./screenshots/cli.png" width="400" height="auto">
 
 ## Copyrighted images
 
